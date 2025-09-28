@@ -1,4 +1,4 @@
-# 📚 AI Survey Compendium (1950s–2025)
+# AI Survey Compendium (1950s–2025)
 
 Welcome to the **AI Survey Compendium**, a curated collection of **18 surveys** covering the historical evolution, breakthroughs, and modern advancements across different fields of **Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)**.  
 
@@ -6,7 +6,7 @@ Each survey is written in a structured **timeline + insights format**, making it
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 ### Core Learning Paradigms
 1. **Supervised Learning in AI: ML → DL Evolution**  
@@ -36,42 +36,42 @@ Each survey is written in a structured **timeline + insights format**, making it
 
 ---
 
-## 📝 Format & Style
+## Format & Style
 Each survey is structured as:
-- **🔹 Definition / Abstract** – quick overview.  
-- **📜 Historical Timeline** – chronological breakthroughs.  
-- **⚙️ Methodology / Core Ideas** – algorithms, architectures.  
-- **📊 Results & Applications** – impact and use cases.  
-- **✅ Key Insights** – summary and lessons learned.  
+- **Definition / Abstract** – quick overview.  
+- **Historical Timeline** – chronological breakthroughs.  
+- **Methodology / Core Ideas** – algorithms, architectures.  
+- **Results & Applications** – impact and use cases.  
+- **Key Insights** – summary and lessons learned.  
 
 Mathematical equations are written in **LaTeX/Markdown math format**, ensuring readability in Jupyter/Colab.  
 
 ---
 
-## 🎯 Purpose
+## Purpose
 - Serve as a **reference hub** for the evolution of AI research fields.  
 - Help learners **connect classical ML with modern DL breakthroughs**.  
 - Provide **survey-style notes** for teaching, research, or personal study.  
 
 ---
 
-## 📌 How to Use
+## How to Use
 - Browse surveys directly in Markdown (`.md`) format.  
 - Use as **learning notes**, **teaching material**, or **literature survey references**.  
 - Extend the repo by adding new surveys for 2025+ research trends.  
 
 ---
 
-## 🏆 Credits
+## Credits
 - Compiled and structured by **[Your Name / Handle]**.  
 - Inspired by milestone papers from academia and industry (Google, OpenAI, DeepMind, Meta AI, Microsoft Research).  
 
 ---
 
-## 📖 License
+## License
 This project is released under the **MIT License**.  
 Free to use, share, and extend with proper attribution.  
 
 ---
 
-🚀 *This repo is a one-stop survey archive — connecting the dots across decades of AI progress.*
+*This repo is a one-stop survey archive — connecting the dots across decades of AI progress.*
